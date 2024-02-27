@@ -72,7 +72,8 @@ li:hover {
     justify-content: center;
     margin-top: 68px;
     height: 24px;
-
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 #icons img {
